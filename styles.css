@@ -1,0 +1,24 @@
+.head{
+    text-align: center;    
+    background-color: aquamarine;
+}
+
+.lists{
+    background-color: greenyellow;
+}
+
+.olists{
+    background-color: cyan;
+
+}
+
+.des{
+    background-color: cyan;
+}
+
+.center-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
